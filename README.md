@@ -26,9 +26,12 @@ InvScan is a simple Ashita v3 addon for Final Fantasy XI that scans your charact
 2. Navigate to your Ashita installation directory (for example, `C:\Program Files (x86)\Ashita\`).  
 3. Within the `addons` folder (e.g., `C:\Program Files (x86)\Ashita\addons`), create a new folder named `invscan`.  
 4. Place the `invscan.lua` file inside the newly created `invscan` folder:
-addons ├── invscan │ └── invscan.lua └── other_addons...
+addons
+  ├── invscan │
+      └── invscan.lua
+  └── other_addons...
 
-5. Start (or restart) Ashita v3 and launch Final Fantasy XI with Ashita.  
+6. Start (or restart) Ashita v3 and launch Final Fantasy XI with Ashita.  
 
 ---
 
